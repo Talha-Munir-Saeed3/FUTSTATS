@@ -198,4 +198,4 @@ Player, manager, and fixture data is **hard-coded** and reflects a snapshot of t
 
 ## License
 
-*Add a license if you plan to publish this (e.g. MIT).*
+This project is licensed under the [MIT License](LICENSE).
